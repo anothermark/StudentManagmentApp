@@ -1,0 +1,14 @@
+# Ignore local student data folder
+studentapp_data/
+
+# Ignore any serialized Java files
+*.ser
+
+# Ignore loose text records if they happen to build locally
+*StudentFile.txt
+
+# Ignore Eclipse-specific workspace configurations
+.settings/
+.project
+.classpath
+bin/
